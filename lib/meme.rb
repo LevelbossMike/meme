@@ -70,7 +70,7 @@ class Meme
   advice_dog 'C_LEMUR',            1227,    'Chill-Out-Lemur'
   advice_dog 'F_FRY',              84688,   'Futurama-Fry'
   advice_dog 'G_GRANDPA',          185650,  'Grumpy-Grandpa'
-  advice_dog 'H_KITTY',            7407319, 'Hipster-Kitty'
+  advice_dog 'H_KITTY',            9351,    'Hipster-Kitty'
   advice_dog 'H_MERMAID',          405224,  'Hipster-Mermaid'
   advice_dog 'I_DONT_ALWAYS',      38926,   'The-Most-Interesting-Man-in-the-World'
   advice_dog 'I_WOLF',             926,     'Insanity-Wolf'
